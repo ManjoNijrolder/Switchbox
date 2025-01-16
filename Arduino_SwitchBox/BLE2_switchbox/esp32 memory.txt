@@ -1,2 +1,0 @@
-flash size 8MB megaByte
-partition 8MB with 3MB app, 1.5MB spiffs
